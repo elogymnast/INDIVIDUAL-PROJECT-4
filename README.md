@@ -73,6 +73,6 @@ This work is licensed under a
 
 ## References
 
-* 1. Moro, J.; Tomé, D.; Schmidely, P.; Demersay, T.-C.; Azzout-Marniche, D. Histidine: A Systematic Review on Metabolism and Physiological Effects in Human and Different Animal Species. Nutrients 2020, 12 (5), 1414. https://doi.org/10.3390/nu12051414. ![ 10.3390/nu12051414]( https://doi.org/10.3390/nu12051414.)
+*1. Moro, J.; Tomé, D.; Schmidely, P.; Demersay, T.-C.; Azzout-Marniche, D. Histidine: A Systematic Review on Metabolism and Physiological Effects in Human and Different Animal Species. Nutrients 2020, 12 (5), 1414. https://doi.org/10.3390/nu12051414. ![ 10.3390/nu12051414]( https://doi.org/10.3390/nu12051414.)
 
 *2. Eo, Y.; Duong, M. T. H.; Ahn, H.-C. Structural Comparison of hMDH2 Complexed with Natural Substrates and Cofactors: The Importance of Phosphate Binding for Active Conformation and Catalysis. Biomolecules 2022, 12 (9), 1175. https://doi.org/10.3390/biom12091175. ![ 10.3390/biom12091175]( https://doi.org/10.3390/biom12091175.)
